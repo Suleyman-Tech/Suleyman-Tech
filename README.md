@@ -1,6 +1,6 @@
 <!--
   ──────────────────────────────────────────────────────────────
-  Süleyman Ibrahim · GitHub profile README
+  Suliaman Ibrahim · GitHub profile README
   ──────────────────────────────────────────────────────────────
   • Repo must be named  Suleyman-Tech/Suleyman-Tech  to render on
     github.com/Suleyman-Tech.
