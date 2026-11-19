@@ -19,7 +19,7 @@
 
 <div align="center">
 
-<img width="100%" alt="Süleyman Ibrahim — Software Engineer · Researcher · Founder of Avelqor" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0A0A0C,100:1B1B22&text=S%C3%BCleyman%20Ibrahim&fontColor=F6F5F1&fontSize=54&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Researcher%20%C2%B7%20Founder%20of%20Avelqor&descSize=17&descAlignY=62&descColor=E86A4E&animation=fadeIn" />
+<img width="100%" alt="Suliaman Ibrahim — Software Engineer · Researcher · Founder of Avelqor" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0A0A0C,100:1B1B22&text=S%C3%BCleyman%20Ibrahim&fontColor=F6F5F1&fontSize=54&fontAlignY=40&desc=Software%20Engineer%20%C2%B7%20Researcher%20%C2%B7%20Founder%20of%20Avelqor&descSize=17&descAlignY=62&descColor=E86A4E&animation=fadeIn" />
 
 <img alt="Systems built to be owned — and to last." src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=E86A4E&center=true&vCenter=true&width=820&height=42&lines=Systems+built+to+be+owned+%E2%80%94+and+to+last.;Architecture+before+implementation.;Simplicity+is+a+discipline." />
 
