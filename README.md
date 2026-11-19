@@ -28,7 +28,6 @@
 <a href="https://avelqor.com"><img alt="Website" src="https://img.shields.io/badge/avelqor.com-17171D?style=flat-square&logo=googlechrome&logoColor=E86A4E&labelColor=17171D" /></a>&nbsp;
 <a href="mailto:founder@avelqor.com"><img alt="Email" src="https://img.shields.io/badge/founder%40avelqor.com-17171D?style=flat-square&logo=gmail&logoColor=E86A4E&labelColor=17171D" /></a>&nbsp;
 <a href="https://github.com/Suleyman-Tech"><img alt="GitHub" src="https://img.shields.io/badge/Suleyman--Tech-17171D?style=flat-square&logo=github&logoColor=E86A4E&labelColor=17171D" /></a>&nbsp;
-<a href="https://www.instagram.com/suleyman.tech/"><img alt="Instagram" src="https://img.shields.io/badge/suleyman.tech-17171D?style=flat-square&logo=instagram&logoColor=E86A4E&labelColor=17171D" /></a>&nbsp;
 <img alt="Discord @n9.8" src="https://img.shields.io/badge/%40n9.8-17171D?style=flat-square&logo=discord&logoColor=E86A4E&labelColor=17171D" />
 
 <br/><br/>
