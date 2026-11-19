@@ -160,7 +160,7 @@ flowchart LR
 
 ## Connect
 
-**[avelqor.com](https://avelqor.com)** · [founder@avelqor.com](mailto:founder@avelqor.com) · [@Suleyman-Tech](https://github.com/Suleyman-Tech) · [Instagram](https://www.instagram.com/suleyman.tech/) · Discord `@n9.8`
+**[avelqor.com](https://avelqor.com)** · [founder@avelqor.com](mailto:founder@avelqor.com) · [@Suleyman-Tech](https://github.com/Suleyman-Tech) · Discord `@n9.8`
 
 <div align="center">
 <img width="100%" alt="" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=110&color=0:0A0A0C,100:1B1B22" />
